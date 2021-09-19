@@ -1,2 +1,2 @@
 # Python_aasignment
-For my pythons assignments
+Daulet Zhanatayev SE-2017 
